@@ -31,8 +31,8 @@ Ally is a Discord bot that leverages ChatGPT to provide dynamic conversation and
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/ally-discord-bot.git
-cd ally-discord-bot
+git clone https://github.com/malikkemp/discord-ai-bot.git
+cd discord-ai-bot
 ``` 
 
 2. **Install dependencies**
